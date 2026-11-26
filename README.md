@@ -4,7 +4,6 @@ Aplicación web para planificar la preparación de menús en una cocina instituc
 
 Desarrollada en **Python + Streamlit**, con la base de datos en **Supabase (PostgreSQL)**.
 
----
 
 ## Funcionalidades
 
@@ -48,7 +47,6 @@ Cada receta indica la cantidad de cada ingrediente para **4 comensales**. Cada u
 - Las cantidades de cada menú se obtienen escalando su receta (base 4 comensales) en forma proporcional a los comensales.
 - Contenido de cada unidad de compra: 1 kg de papas = 4 papas, 1 kg de tomates = 4 tomates, 1 empaque = 12 huevos, y 1 paquete o litro trae tantas porciones como personas indica su rendimiento.
 - La cebolla rinde para 4 personas por unidad.
-- El menú *Carne Molida con Papas y Arroz* no lleva arroz entre sus ingredientes.
 - La merma se valoriza en forma proporcional al costo de la unidad.
 
 ---

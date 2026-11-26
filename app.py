@@ -1,7 +1,7 @@
 # =====================================================================
 # SISTEMA DE INVENTARIO DE ALIMENTOS, CONTROL Y GESTIÓN DE MERMAS
 # ---------------------------------------------------------------------
-# Alumno     : Teniente Diego [APELLIDO]
+# Alumno     : Teniente Diego Rodriguez
 # Curso      : Programación Avanzada – I CRIM Sistemas de Armas
 # Profesor   : Dr. Carlos Santibáñez Rodríguez
 # Evaluación : Solemne N°3
