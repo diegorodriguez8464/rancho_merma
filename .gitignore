@@ -1,0 +1,9 @@
+# Credenciales: NUNCA subir a GitHub
+.streamlit/secrets.toml
+.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
