@@ -88,7 +88,6 @@ rancho_merma/
 │   └── prueba_calculos.py     Verificación del motor de cálculo
 ├── .streamlit/
 │   └── secrets.toml.example   Plantilla de credenciales
-├── iniciar.bat                Instala dependencias y abre la aplicación (Windows)
 └── requirements.txt
 ```
 
@@ -128,7 +127,7 @@ rancho_merma/
    El archivo `secrets.toml` está excluido en `.gitignore`, para que las credenciales no queden publicadas.
 
 ### 3. Ejecutar
-En Windows, hacer doble clic en `iniciar.bat`, o ejecutar en la terminal:
+Desde la carpeta del proyecto, ejecutar en la terminal:
 ```bash
 python -m pip install -r requirements.txt
 python -m streamlit run app.py
